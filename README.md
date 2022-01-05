@@ -27,7 +27,7 @@ For Help [JOIN TELEGRAM](https://t.me/ProjectX_insta) 😇
 pkg install python
 ```
 ```
-git clone https://github.com/ananthuganesh/KMF_BOT.git
+git clone https://github.com/Cyber-Black-Hacker/KMF_BOT.git
 ```
 ```
 cd KMF_BOT
